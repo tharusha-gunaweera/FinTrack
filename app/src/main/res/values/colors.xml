@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Theme colors -->
+    <color name="primary">#4166d5</color>
+    <color name="primary_dark">#2d4bb8</color>
+    <color name="secondary">#03DAC6</color>
+    <color name="secondary_dark">#018786</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="error">#CF6679</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    
+    <!-- Navigation colors -->
+    <color name="nav_background">#1E1E1E</color>
+    <color name="link_blue">#1739e0</color>
+    <color name="dark_background">#121212</color>
+    <color name="dark_primary_text">#FFFFFF</color>
+    <color name="dark_secondary_text">#B3B3B3</color>
+    <color name="dark_hint_text">#666666</color>
+    <color name="dark_link_color">#4166d5</color>
+    <color name="dark_button_text">#FFFFFF</color>
+
+    <!-- New colors from the code block -->
+    <color name="accent">#BB86FC</color>
+    <color name="secondary_text_dark">#B3FFFFFF</color>
+    <color name="income_green">#4CAF50</color>
+    <color name="expense_red">#F44336</color>
+    <color name="card_background_dark">#1E1E1E</color>
+
+
+    <color name="dark_gray">#FF444444</color>
+    <color name="primary_light">#BB86FC</color>
+</resources>

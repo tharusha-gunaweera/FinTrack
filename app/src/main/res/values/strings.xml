@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FinTrack</string>
+    <string name="select_category">Select Category</string>
+    <string name="select_type">Select Type</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <!-- Login Activity Strings -->
+    <string name="sign_in">Sign In</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="no_account">I don\'t have an account</string>
+    
+    <!-- Sign Up Activity Strings -->
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password_validation_lowercase_uppercase">Must contain lowercase and uppercase letters</string>
+    <string name="password_validation_number">Must contain a number</string>
+    <string name="password_validation_length">Must be at least 6 characters long</string>
+    <string name="password_validation_spaces">Must not have leading or trailing spaces</string>
+    <string name="already_have_account">I already have an account</string>
+    
+    <!-- Dashboard Fragment Strings -->
+    <string name="total_balance">Total Balance</string>
+    <string name="income">Income</string>
+    <string name="expenses">Expenses</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    
+    <!-- Transaction Fragment Strings -->
+    <string name="budget_and_transactions">Budget and Transactions</string>
+    <string name="monthly_budget">Monthly Budget</string>
+    <string name="budget_not_set">Not set</string>
+    <string name="edit_budget">Edit budget</string>
+    <string name="spent">Spent:</string>
+    <string name="remaining">Remaining:</string>
+    <string name="recent_expenses">Recent Expenses</string>
+    <string name="add_transaction">Add Transaction</string>
+</resources>
